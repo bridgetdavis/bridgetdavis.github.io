@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $lato;
   color: $darkerGray;
   font-weight: bold;
 
@@ -45,7 +45,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2.2em;
+  font-family: $cabinsketch;
+  margin: .1em 0 1px;
+
   a {
     color: inherit;
   }
@@ -60,9 +63,22 @@ h3 {
 }
 
 h4 {
-  font-size: 18px;
+  font-size: .71em;
+  margin: .1em 0 10px;
   color: $gray;
+  border-bottom: 1px dashed $gray;
 }
+
+h5 {
+  color: $gray;
+  font-size: 14px;
+  margin: -.75em 0 1px;
+
+}
+
+h6 {
+}
+
 
 p {
   margin: 15px 0;
