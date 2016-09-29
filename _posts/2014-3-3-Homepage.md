@@ -1,26 +1,30 @@
 ---
 layout: post
 title: Bridget Davis
+description: Creative advocacy campaign manager experienced in 20 states
 
 ---
 
+#### Introduction
+
+
 Fifteen years experience building and leading projects up to $3M. Led ten person policy team to write and pass two $11B state budgets, including the first to gain Congressional committee approval with zero riders. Won reproductive freedom campaign in nine states.
 
-###### Key areas of expertise
+#### Key areas of expertise
 
 Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Financial Management ◆ Municipal Fiscal Policy ◆ Project Management ◆ Non-Profit Start-Up ◆ Grant Management & Writing
 
-###### Experience
+#### Experience
 
 # Senior Vice President
-## The Pivot Group — June 2016 - Present
+##### The Pivot Group — June 2016 - Present
 
-Devised communications strategies for Hillary for America account.
+Lead account team of five to devised communications strategies for Hillary for America account.
 - Designed communications campaigns for HFA in battleground states that could decide the presidential race
 - Wrote high-impact communications for direct mail
 
 # Regional Field Director
-## Planned Parenthood Federation of America — June 2012 - June 2016
+##### Planned Parenthood Federation of America — June 2012 - June 2016
 
 Developed winning strategies in states facing severe opposition that result in increased political power. Selected accomplishments include:
 
@@ -29,7 +33,7 @@ Developed winning strategies in states facing severe opposition that result in i
 - Decreased Governor McCrory’s approval rating by 15 points with targeted “motorcycle vagina” veto campaign  
 
 # Engagement Manager
-## StudentsFirst — January 2011 - November, 2011
+##### StudentsFirst — January 2011 - November, 2011
 
 Developed successful grassroots lobbying campaigns leveraging 800,000 members to support start-up legislative agenda and wrote and managed national issue and field campaigns.  Selected accomplishments include:
 
@@ -38,7 +42,7 @@ Developed successful grassroots lobbying campaigns leveraging 800,000 members to
 - Led $2M legislative campaign leading to the passage of key policies in five states
 
 # Director
-## Office of Policy & Legislative Affairs, Executive Office of Mayor Adrian M. Fenty — 2009 - 2011
+##### Office of Policy & Legislative Affairs, Executive Office of Mayor Adrian M. Fenty — 2009 - 2011
 
 Promoted by the Mayor during adversarial period to lead team of ten in drafting legislation and directing the Executive’s legislative agenda for FY 2010 and FY 2011.  As the Executive’s chief lobbyist, leveraged strategic relationships with Congress, the DC Council, district and federal agencies and community stakeholders to advance the mayoral agenda.  Selected accomplishments include:
 
@@ -49,7 +53,7 @@ Promoted by the Mayor during adversarial period to lead team of ten in drafting 
 - Approved all executive branch contracts over $1M and lobbied City Council for passage of $206M hotel development contract, $8M in grants to build the Howard Theater development on 7th and T Streets NW and fought to approve a $1.5M contract to build a community park in LeDroit Park
 
 # Director
-## Office of Boards & Commissions, Executive Office of Mayor Adrian M. Fenty — 2008 - 2009
+##### Office of Boards & Commissions, Executive Office of Mayor Adrian M. Fenty — 2008 - 2009
 
 Promoted from Office of Community Relations to manage a four-member staff and direct mayoral appointment of constituents to over 180 boards and commissions. Selected accomplishments:
 
@@ -57,13 +61,14 @@ Promoted from Office of Community Relations to manage a four-member staff and di
 - Streamlined the application, submission, confirmation and swearing in of mayoral appointees to more than 180 boards and commissions
 
 
-###### Community Service
+#### Community Service
 
 # On Call Advocacy Program Volunteer
-## Survivors and Advocates for Empowerment (SAFE)
+##### Survivors and Advocates for Empowerment (SAFE)
 
 As a certified mandated reporter, work with victims of domestic violence in crisis over the phone or in person to provide immediate crisis intervention services and safety planning.
 
-###### Education
+#### Education
+
 # The Ohio State University, Columbus, OH
-## Bachelor of Arts, Political Science and Women’s Studies, 2001
+##### Bachelor of Arts, Political Science and Women’s Studies, 2001
