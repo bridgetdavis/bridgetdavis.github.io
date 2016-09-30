@@ -24,8 +24,10 @@ Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Finan
 ##### The Pivot Group — June 2016 - Present
 
 Lead account team of five to devised communications strategies for Hillary for America account.
-- Designed communications campaigns for HFA in battleground states that could decide the presidential race
+
+- Designed communications campaigns for HFA in battle ground states that could decide the presidential race
 - Wrote high-impact communications for direct mail
+- Managing multi-million dollar campaigns in battle ground states
 
 # Regional Field Director
 
@@ -68,6 +70,13 @@ Promoted from Office of Community Relations to manage a four-member staff and di
 - Managed a staff of four in recruiting exceptional candidates from various communities in the city and guided council confirmation process
 - Streamlined the application, submission, confirmation and swearing in of mayoral appointees to more than 180 boards and commissions
 
+# Community Services Representative
+
+#### Mayor's Office of Community Relations & Services, Executive Office of Mayor Adrian M. Fenty — 2007 - 2008
+
+Served as a key member of the Mayor’s field team, coordinated multi-agency initiatives to address citywide maintenance projects and social service initiatives. Selected accomplishment:
+
+- Improved living conditions for 25 families and resulted in 2,861 count criminal complaint against derelict landlord when led interdisciplinary team of DC agencies 
 
 #### Community Service
 
