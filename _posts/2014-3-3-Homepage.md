@@ -11,11 +11,11 @@ tag: homepage
 #### Introduction
 
 
-Fifteen years experience building and leading projects up to $3M. Led ten person policy team to write and pass two $11B state budgets, including the first to gain Congressional committee approval with zero riders. Won reproductive freedom campaign in nine states.
+Fifteen years experience building and leading projects up to $3M. Led ten person policy team to write and pass two $11B state budgets, including the first to gain Congressional committee approval with zero riders. Won reproductive freedom campaigns in nine states.
 
 #### Key areas of expertise
 
-Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Financial Management ◆ Municipal Fiscal Policy ◆ Project Management ◆ Non-Profit Start-Up ◆ Grant Management & Writing
+Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Financial Management ◆ Municipal & Federal Fiscal Policy ◆ Project Management ◆ Non-Profit Start-Up ◆ Grant Management & Writing
 
 #### Experience
 
@@ -25,7 +25,7 @@ Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Finan
 
 Lead account team of five to devised communications strategies for Hillary for America account.
 
-- Designed communications campaigns for HFA in battle ground states that could decide the presidential race
+- Designed communications campaigns for HFA in battle ground states that could decide the presidential election
 - Wrote high-impact communications for direct mail
 - Managing multi-million dollar campaigns in battle ground states
 
