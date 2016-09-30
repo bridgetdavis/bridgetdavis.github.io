@@ -2,11 +2,11 @@
 layout: post
 title: Bridget Davis
 description: Creative advocacy campaign manager experienced in 20 states
-
 tag: homepage
 
 ---
 
+<h2 class="">{{ site.description }}</h2>
 
 #### Introduction
 
@@ -76,7 +76,7 @@ Promoted from Office of Community Relations to manage a four-member staff and di
 
 Served as a key member of the Mayor’s field team, coordinated multi-agency initiatives to address citywide maintenance projects and social service initiatives. Selected accomplishment:
 
-- Improved living conditions for 25 families and resulted in 2,861 count criminal complaint against derelict landlord when led interdisciplinary team of DC agencies 
+- Improved living conditions for 25 families and resulted in 2,861 count criminal complaint against derelict landlord when led interdisciplinary team of DC agencies
 
 #### Community Service
 
