@@ -14,6 +14,7 @@ Twenty years experience building and leading projects up to $3M. Led ten person 
 
 #### Professional Profile
 
+
 - Senior leader experienced in impactful solutions to operational, political, and policy challenges on projects up to $150M.
 - Strategic leader for Airbnb’s most profitable global region; designed planning processes in complex markets.
 - Regional Director at Planned Parenthood Federation of America, developed and oversaw large scale advocacy campaigns.
@@ -23,7 +24,7 @@ Twenty years experience building and leading projects up to $3M. Led ten person 
 
 #### Key areas of expertise
 
-Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Financial Management ◆ Municipal Fiscal Policy ◆ Project Management ◆ Non-Profit Start-Up ◆ Grant Management & Writing
+Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Financial Management ◆ Municipal & Federal Fiscal Policy ◆ Project Management ◆ Non-Profit Start-Up ◆ Grant Management & Writing
 
 #### Experience
 
@@ -49,7 +50,7 @@ Provided advice and counsel to Planned Parenthood Federation of America’s Nati
 
 Lead account team of five to devise communications strategies for Hillary for America Presidential campaign account.
 
-- Designed communications campaigns for HFA in battle ground states that could decide the presidential race
+- Designed communications campaigns for HFA in battle ground states that could decide the presidential election
 - Wrote high-impact communications for direct mail
 - Managing multi-million dollar campaigns in battle ground states
 
