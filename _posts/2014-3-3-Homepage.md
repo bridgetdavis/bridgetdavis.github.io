@@ -10,10 +10,9 @@ date: 2021-03-17
 
 #### Introduction
 
-Twenty years experience building and leading projects up to $3M. Led ten person policy team to write and pass two $11B state budgets, including the first to gain Congressional committee approval with zero riders. Won reproductive freedom campaign in nine states.
+Twenty years experience building and leading projects. Led ten person policy team to write and pass two $11B state budgets, including the first to gain Congressional committee approval with zero riders. Won reproductive freedom campaign in nine states.
 
 #### Professional Profile
-
 
 - Senior leader experienced in impactful solutions to operational, political, and policy challenges on projects up to $150M.
 - Strategic leader for Airbnb’s most profitable global region; designed planning processes in complex markets.
