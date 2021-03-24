@@ -25,7 +25,7 @@ Twenty years experience building and leading projects. Led ten person policy tea
 
 Community Organizing ◆ Campaign Strategy ◆ Communications ◆ Budget & Financial Management ◆ Municipal & Federal Fiscal Policy ◆ Project Management ◆ Non-Profit Start-Up ◆ Grant Management & Writing
 
-#### Experience
+#### Professional Experience
 
 # Senior Advisor
 
@@ -96,13 +96,11 @@ Promoted from Office of Community Relations to manage a four-member staff and di
 
 # Community Services Representative
 
-#### Mayor's Office of Community Relations & Services, Executive Office of Mayor Adrian M. Fenty — 2007 - 2008
+##### Mayor's Office of Community Relations & Services, Executive Office of Mayor Adrian M. Fenty — 2007 - 2008
 
 Served as a key member of the Mayor’s field team, coordinated multi-agency initiatives to address citywide maintenance projects and social service initiatives. Selected accomplishment:
 
 - Improved living conditions for 25 families and resulted in 2,861 count criminal complaint against derelict landlord when led interdisciplinary team of DC agencies
-
-#### Community Service
 
 # On Call Advocacy Program Volunteer
 
