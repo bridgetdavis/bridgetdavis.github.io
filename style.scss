@@ -46,7 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.25em;
-  margin: 2em 0 .75em;
+  margin: 1em 0 .65em;
+  line-height: 1.15em;
 
   a {
     color: inherit;
@@ -62,10 +63,11 @@ h3 {
 }
 
 h4 {
-  font-size: .71em;
-  margin: .1em 0 10px;
+  font-size: .79em;
+  margin: 3.3em 0 -.7em;
   color: $gray;
   border-bottom: 1px dashed $gray;
+  font-variant-caps: titling-caps;
 }
 
 h5 {
